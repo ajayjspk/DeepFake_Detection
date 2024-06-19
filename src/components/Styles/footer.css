@@ -1,0 +1,45 @@
+.footer {
+    background-color: #222; /* Darker background */
+    color: #fff;
+    padding: 20px 5rem;
+    display: flex; /* Allow horizontal layout */
+    justify-content: space-between; /* Distribute content evenly */
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .footer-container {
+    flex: 1; /* Take up available space */
+    display: flex;
+    justify-content: space-between; /* Distribute social & address */
+  }
+  
+  .social-media,
+  .address {
+    font-size: xx-large;
+    display: inline-block;
+  }
+  
+  .social-link {
+    margin-right: 15px;
+    font-size: 20px;
+    transition: all 0.3s ease;
+    color: #fff; /* Base color for icons */
+  }
+  
+  .social-link:hover {
+    color: #f0545e; /* Pink hover effect */
+  }
+  
+  .address p {
+    margin: 0;
+    font-size:16px;
+    margin-right: 2rem;
+  }
+  
+  .copyright {
+    /* background-color: #111; Even darker background for copyright */
+    padding: 10px 0;
+    text-align: center;
+  }
+  

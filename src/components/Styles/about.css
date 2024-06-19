@@ -1,0 +1,21 @@
+.about-container {
+    padding:0 10%;
+    /* max-width: 900px; */
+    margin: 3% auto;
+  }
+  #about{
+    margin-bottom: 50px;
+    /* background-color: aqua; */
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  p {
+    line-height: 1.5;
+    font-size: large;
+    text-align: justify;
+  }
+  

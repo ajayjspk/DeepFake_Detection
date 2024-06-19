@@ -1,0 +1,3 @@
+WWAnmLLTYWRMfcVM
+
+mongodb+srv://techlogicak2:WWAnmLLTYWRMfcVM@cluster0.yfatjjp.mongodb.net/
